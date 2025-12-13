@@ -1,6 +1,6 @@
 
 
-[![JaehaerysRL](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/JaehaerysRL)
+[![JaehaerysRL](https://img.shields.io/badge/JaehaerysRL-github-blue?logo=github)](https://github.com/JaehaerysRL)
 
 Research-oriented Software Engineer | Applied ML & Data Systems | MSc (Thesis) Applicant in Computer Science
 
