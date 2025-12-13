@@ -8,7 +8,17 @@ Research-oriented Software Engineer | Applied ML & Data Systems | MSc (Thesis) A
 
 Email: jaehaerysrl@gmail.com
 
+#### Language
+
+English (IELTS 7.0), Chinese (Native)
+
+#### Technical Skills
+
+Programming Languages: Python, C#, Go, TypeScript, SQL
+Tools & Frameworks: Unity3D, TensorFlow, PyTorch, MongoDB, Redis, Git, Tableau, etc.
+
 #### About
+
 I am a research-oriented software engineer with a dual background in Architecture and Computer Science, focusing on applied machine learning, data systems, and performance optimization.
 
 My academic work explored machine learning–driven architectural and spatial analysis, including large-scale data collection, feature engineering, and topology-aware optimization. My thesis and research projects involved end-to-end pipelines from data acquisition and cleaning to model training, evaluation, and visualization.

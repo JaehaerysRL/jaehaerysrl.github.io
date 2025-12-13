@@ -1,12 +1,10 @@
 #### Shenzhen ForeverNine Interactive Technology Co., Ltd.
-Software Engineer / Lead Client Developer | Jul 2022 – Sep 2025
+Full-Stack Software Engineer | Jul 2022 – Sep 2025
 
-- Led performance and memory optimization for a large-scale commercial game client, reducing peak memory usage by 30%-40% under worst-case scenarios without increasing frame stutter.
+- Backend Development (Go): Engineered the unified activity management system and internal operation tools, streamlining the deployment of live events and reducing operational overhead for the publishing team.
 
-- Conducted system-level diagnosis of asset loading and lifecycle management, identifying misuse of synchronous loading patterns and proposing asynchronous, resource-aware solutions.
+- Client-Side Optimization (Unity/C#): Led performance tuning for the game client; reduced peak memory usage by 30%-40% through rigorous heap analysis and asset lifecycle management optimization.
 
-- Designed and implemented reusable client modules (event systems, ranking systems, reward pipelines) with emphasis on scalability, extensibility, and data safety.
+- System Architecture: Diagnosed asynchronous loading bottlenecks and refactored the legacy resource management module, significantly improving crash rates on low-end devices.
 
-- Improved system reliability by restructuring logging mechanisms, reward validation logic, and anti-cheat safeguards.
-
-- Collaborated closely with backend and architecture teams on performance-critical releases and system diagnostics.
+- Feature Implementation: Collaborated with cross-functional teams to deliver complex UI/UX interactions, ensuring seamless performance across mobile platforms.
