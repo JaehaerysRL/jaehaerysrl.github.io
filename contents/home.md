@@ -14,8 +14,8 @@ English (IELTS 7.0), Chinese (Native)
 
 #### Technical Skills
 
-Programming Languages: Python, C#, Go, TypeScript, SQL
-Tools & Frameworks: Unity3D, TensorFlow, PyTorch, MongoDB, Redis, Git, Tableau, etc.
+- Programming Languages: Python, C#, Go, TypeScript, SQL
+- Tools & Frameworks: Unity3D, TensorFlow, PyTorch, MongoDB, Redis, Git, Tableau, etc.
 
 #### About
 
