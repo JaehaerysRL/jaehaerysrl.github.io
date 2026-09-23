@@ -2,7 +2,7 @@
 
 [![JaehaerysRL](https://img.shields.io/badge/JaehaerysRL-github-blue?logo=github)](https://github.com/JaehaerysRL)
 
-Research-oriented Software Engineer | Applied ML & Data Systems | MSc (Thesis) Applicant in Computer Science
+Research-oriented Software Engineer | MSc Student in Computer Engineering (AI and Computer Vision) at Aarhus University
 
 #### Contact
 
@@ -14,15 +14,22 @@ English (IELTS 7.0), Chinese (Native)
 
 #### Technical Skills
 
-- Programming Languages: Python, C#, Go, TypeScript, SQL
-- Tools & Frameworks: Unity3D, TensorFlow, PyTorch, MongoDB, Redis, Git, Tableau, etc.
+- Programming Languages: C#, Python, TypeScript, Go, C/C++, SQL, JavaScript, Bash
+- Core Frameworks & Domains: Unity3D, TensorFlow, PyTorch
+- Systems & Infrastructure: Git, Unity Profiler, Linux, MongoDB, Redis, AI-assisted coding tools
+- Visual & Design Tools: Adobe Photoshop, SketchUp, Tableau
 
 #### About
 
-I am a research-oriented software engineer with a dual background in Architecture and Computer Science, focusing on applied machine learning, data systems, and performance optimization.
+I am a research-oriented software engineer and an MSc student in Computer Engineering (AI and Computer Vision) at Aarhus University, Denmark, with a dual background in Software Engineering and Architecture.
 
-My academic work explored machine learning–driven architectural and spatial analysis, including large-scale data collection, feature engineering, and topology-aware optimization. My thesis and research projects involved end-to-end pipelines from data acquisition and cleaning to model training, evaluation, and visualization.
+I have over three years of commercial game development experience as a core client engineer and front-end lead, specializing in client architecture, memory and performance optimization, and Game AI systems.
 
-Professionally, I have over three years of experience as a core developer in a commercial game project, where I led memory optimization, system reliability improvements, and reusable module design in large-scale client systems. These experiences shaped my interest in ML systems, data pipelines, and reliable AI-enabled software.
+My earlier research applied machine learning, data engineering and visual analytics to architectural design, bridging spatial reasoning with computational methods.
 
-I am currently applying for MSc (Thesis) programs in Computer Science, with research interests in applied machine learning, data-intensive systems, and system-level optimization.
+I am interested in computer vision, human–computer interaction and data-driven interactive systems.
+
+#### Interests
+
+- Sports & Racing: FC Bayern Munich, San Antonio Spurs, Formula 1 (Max Verstappen).
+- Hobbies: Fantasy novels, tabletop role-playing games (Dungeons & Dragons).
